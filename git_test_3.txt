@@ -1,1 +1,1 @@
-This file is used for git test three.
+This file is used for git test three. And this one is last.
