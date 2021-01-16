@@ -1,1 +1,1 @@
-This file is used for git test two. 
+This file is used for git test two
